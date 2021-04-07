@@ -9,7 +9,7 @@
 		},
 		"supportedThemes": [
 			"sap_fiori3",
-			"sap_belize"
+			"sap_fiori3_dark"
 		]
 	},
 	"sap.app": {
