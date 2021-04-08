@@ -28,6 +28,9 @@
                         <core:Item key="{name}" text="{name}" />
                     </MultiComboBox>
                 </IconTabFilter>
+                 <IconTabFilter key="SUT" text="Just Testing" icon="sap-icon://supplier">
+                    
+                </IconTabFilter>
             </items>
         </IconTabBar>
         <footer>
